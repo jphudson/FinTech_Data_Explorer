@@ -1,0 +1,9 @@
+# Data manipulation and analysis
+pandas
+
+# Data visualization
+seaborn
+matplotlib
+
+# Data fetching
+yfinance
