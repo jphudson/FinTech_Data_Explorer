@@ -1,7 +1,7 @@
-# Automated Financial Analysis Project
+# Fintech Data Explorer
 
 ## Overview
-The **Automated Financial Analysis Project** is a Python-based application designed to fetch, process, and visualize financial data from various stock markets. This project leverages the power of data analysis to provide insights into stock performance, volatility, and other key metrics, helping users make informed investment decisions.
+The **Fintech Data Explorer** is a Python-based application designed to fetch, process, and visualize financial data from various stock markets. This project leverages the power of data analysis to provide insights into stock performance, volatility, and other key metrics, helping users make informed investment decisions.
 
 ## Features
 - Fetch historical stock data using the Yahoo Finance API.
