@@ -30,8 +30,9 @@ The **Fintech Data Explorer** is a Python-based application designed to fetch, p
    cd Automated_Financial_Analysis_Project
 
 2. Create virtual environment (optional)
+   ```bash
    python -m venv venv
    source venv/bin/activate   # On Windows use `venv\Scripts\activate`
-
+   
 3. Install requirements
    pip install -r requirements.txt
